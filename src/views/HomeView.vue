@@ -51,16 +51,3 @@ export default defineComponent({
   }
 })
 </script>
-
-<style>
-.nameWrapper {
-  font-size: 30px;
-  font-weight: bold;
-  margin-bottom: 15px;
-}
-
-.tableWrapper {
-  text-align: center;
-}
-
-</style>
