@@ -5,4 +5,12 @@
 </template>
 
 <script lang="ts">
+import { Vue, Options } from 'vue-class-component'
+
+@Options({
+
+})
+export default class HomeView2 extends Vue {
+}
+
 </script>

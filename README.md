@@ -29,4 +29,6 @@ module.exports = defineConfig({
 * vue-class-component 를 계승해서, 별도의 다양한 데코레이터를 만드는게 그 라이브러리가 vue-property-decorator 이다.
 * [vue-class-component](https://github.com/vuejs/vue-class-component)
 * [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
-
+* [vue3 에 대한 지원여부 관련](https://github.com/kaorun343/vue-property-decorator/issues/294)
+  * [vue-class-component : @Component -> @Options](https://github.com/vuejs/vue-class-component/issues/406)
+  * https://github.com/vuejs/vue-class-component/issues/416
